@@ -1,0 +1,240 @@
+using CP2.Architecture;
+using CP2.Architecture.Providers;
+using CP2.COR;
+using CP2.Data.Global;
+using CP2.Data.Models;
+using System.Text.Json;
+
+namespace CP2.Core;
+
+public interface IRoomsBusiness
+{
+    Task<bool> SolutionIndexAsync(string code);
+    Task<bool> SolutionRoom1Async(int num);
+    Task<bool> SolutionRoom2Async(string code);
+    Task<bool> SolutionRoom3Async(string code);
+    Task<bool> SolutionRoom4Async(string code);
+    Task<bool> SolutionRoom5Async();
+    Task<bool> SolutionRoom6Async(int num);
+    Task<bool> SolutionRoom7Async(string code);
+    Task<bool> SolutionRoom8Async();
+    Task<bool> SolutionRoom9Async(string code);
+    Task<bool> SolutionRoom10Async(string code);
+    Task<bool> SolutionRoom11Async(string code);
+    Task<bool> SolutionRoom12Async(string code);
+    Task<bool> SolutionRoom13Async(string code);
+    Task<bool> SolutionRoom14Async(string code);
+    Task<bool> CanExitTheRoomsAsync(string code);
+}
+
+public class RoomsBusiness(
+    IRestProvider restProvider,
+    SecureHashService secureHashService,
+    IReadOnlyDictionary<int, string> roomConfigs) : RoomsBase(restProvider, secureHashService, roomConfigs), IRoomsBusiness
+{
+    private readonly IRestProvider _restProvider = restProvider;
+
+    public async Task<bool> SolutionTestAsync(string code)
+    {
+        // solucion aqui
+        code = "Test";
+
+
+        // codiguito aqui
+        // lalalala lalalala
+        // code = resultado de lalalal
+
+        var resultHash = Evaluate(0, code);
+        var resultApi = await CallApiAsync("test", code);
+        return (resultHash && resultApi);
+    }
+
+   public async Task<bool> SolutionIndexAsync(string code)
+
+{
+
+  var chars = code.ToCharArray();
+
+  Array.Sort(chars);
+
+
+  string? validCandidate = null;
+
+
+  while (true)
+
+  {
+
+    var candidate = new string(chars);
+
+
+    if (Evaluate(0, candidate))
+
+    {
+
+      validCandidate = candidate;
+
+      break;
+
+    }
+
+
+    int i = chars.Length - 2;
+
+    while (i >= 0 && chars[i] >= chars[i + 1])
+
+      i--;
+
+
+    if (i < 0)
+
+      break;
+
+
+    int j = chars.Length - 1;
+
+    while (chars[j] <= chars[i])
+
+      j--;
+
+
+    (chars[i], chars[j]) = (chars[j], chars[i]);
+
+    Array.Reverse(chars, i + 1, chars.Length - (i + 1));
+
+  }
+
+
+  if (validCandidate == null)
+
+    return false;
+
+
+  //var resultApi = await CallApiAsync("0", validCandidate);
+
+
+  return true;
+
+}
+
+    public async Task<bool> SolutionRoom1Async(int x)
+    {
+        // resuelven 
+       // 74921343
+        var resultHash = Evaluate(1, "x");
+       // var resultApi = await CallApiAsync("test", "x");
+        return Evaluate(1, x.ToString()); 
+    }
+
+    public async Task<bool> SolutionRoom2Async(string code)
+    {  
+        // SOLID
+        return Evaluate(2, code); // Placeholder logic
+    }
+
+    public async Task<bool> SolutionRoom3Async(string code)
+    {
+        // Alvaro Miranda
+        //var key = Environment.GetEnvironmentVariable("SECRET_KEY");
+        var key = "E4A1F9B7C32D8F64A9F1C0D3B7E2A6CC4F18B92ED0C4A7F1D3B89C6A5F2E1D44";
+        var service = new SecureHashService(key);
+        var result = service.Hash(code);
+        var final = Evaluate(3, result);
+        //var final = true;
+        return final;
+    }
+
+    public async Task<bool> SolutionRoom4Async(string code)
+    {
+        //ABSTRACCION N15X15
+        //ENCAPSULAMIENTO Y1L14
+        //HERENCIA X6X13
+        //POLIMORFISMO A1L12
+
+        //var puzzle = await JsonProvider.DeserializeAsync<PuzzleViewModel>(code);
+        var options = new JsonSerializerOptions
+
+        {
+
+            PropertyNameCaseInsensitive = true
+
+        };
+
+        PuzzleViewModel puzzle = JsonSerializer.Deserialize<PuzzleViewModel>(code, options);
+
+        return Evaluate(4, puzzle.ToString()); // Placeholder logic
+    }
+
+    public async Task<bool> SolutionRoom5Async()
+    {
+        return true;
+    }
+
+    public async Task<bool> SolutionRoom6Async(int num)
+    {
+        var service = new ValueService();
+        var handlerA = new MultiplyAHandler(service);
+        var handlerB = new MultiplyBHandler(service);
+        var handlerC = new MultiplyCHandler(service);
+        var final = new FinalComparisonHandler(service);
+
+        handlerA.SetNext(handlerB).SetNext(handlerC).SetNext(final);
+
+        double initialValue = 1;
+        var result = handlerA.Handle(initialValue);
+
+        var code = result.ToString();
+        var resultHash = Evaluate(6, code);
+        return resultHash;
+    }
+
+    public async Task<bool> SolutionRoom7Async(string code)
+    {
+        // solucion aqui
+        return true; // Placeholder logic
+    }
+
+    public async Task<bool> SolutionRoom8Async()
+    {
+        // solucion aqui
+        return true; // Placeholder logic
+    }
+
+    public async Task<bool> SolutionRoom9Async(string code)
+    {
+        // solucion aqui
+        return true; // Placeholder logic
+    }
+
+    public async Task<bool> SolutionRoom10Async(string code)
+    {
+        // solucion aqui
+        return true; // Placeholder logic
+    }
+    public async Task<bool> SolutionRoom11Async(string code)
+    {
+        // solucion aqui
+        return true; // Placeholder logic
+    }
+    public async Task<bool> SolutionRoom12Async(string code)
+    {
+        // solucion aqui
+        return true; // Placeholder logic
+    }
+    public async Task<bool> SolutionRoom13Async(string code)
+    {
+        // solucion aqui
+        return true; // Placeholder logic
+    }
+    public async Task<bool> SolutionRoom14Async(string code)
+    {
+        // solucion aqui
+        return true; // Placeholder logic
+    }
+
+    public async Task<bool> CanExitTheRoomsAsync(string code)
+    {
+        // solucion aqui
+        return true; // Placeholder logic
+    }
+}
