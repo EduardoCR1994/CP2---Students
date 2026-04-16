@@ -63,8 +63,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-09T02:56:14.821Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -77,8 +76,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-04-09T03:02:57.342Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -106,8 +104,7 @@
               "RelativeToolTip": "CP2.Core\\PuzzleViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T04:11:13.24Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-09T04:11:13.24Z"
             },
             {
               "$type": "Document",
@@ -119,8 +116,7 @@
               "RelativeToolTip": "CP2\\Models\\PuzzleViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T04:06:06.683Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-09T04:06:06.683Z"
             },
             {
               "$type": "Document",
@@ -132,8 +128,7 @@
               "RelativeToolTip": "CP2\\Views\\Rooms\\Room4.cshtml",
               "ViewState": "AgIAAIoAAAAAAAAAAAAAAJsAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-09T04:03:36.01Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-09T04:03:36.01Z"
             },
             {
               "$type": "Document",
@@ -145,8 +140,7 @@
               "RelativeToolTip": "CP2.API\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-09T03:22:25.279Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-09T03:22:25.279Z"
             },
             {
               "$type": "Document",
@@ -158,8 +152,7 @@
               "RelativeToolTip": "CP2.Core\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-09T03:22:02.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-09T03:22:02.832Z"
             },
             {
               "$type": "Document",
@@ -169,7 +162,7 @@
               "RelativeDocumentMoniker": "CP2.Core\\RoomsBusiness.cs",
               "ToolTip": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2.Core\\RoomsBusiness.cs",
               "RelativeToolTip": "CP2.Core\\RoomsBusiness.cs",
-              "ViewState": "AgIAAKUAAAAAAAAAAAAUwKsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAkwKsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-09T02:57:40.077Z",
               "EditorCaption": ""
@@ -177,15 +170,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "CP2",
+              "Title": "CP2.csproj",
               "DocumentMoniker": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\CP2.csproj",
               "RelativeDocumentMoniker": "CP2\\CP2.csproj",
               "ToolTip": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\CP2.csproj",
               "RelativeToolTip": "CP2\\CP2.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-09T02:55:42.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-09T02:55:42.027Z"
             },
             {
               "$type": "Document",
@@ -197,8 +189,7 @@
               "RelativeToolTip": "CP2.API\\Controllers\\SecretApiController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T02:54:43.382Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-09T02:54:43.382Z"
             }
           ]
         }
