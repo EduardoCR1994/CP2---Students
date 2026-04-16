@@ -1,0 +1,110 @@
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2.API\bin\Debug\net8.0\appsettings.Development.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2.API\bin\Debug\net8.0\appsettings.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2.API\bin\Debug\net8.0\CP2.API.staticwebassets.endpoints.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2.API\bin\Debug\net8.0\CP2.API.exe
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2.API\bin\Debug\net8.0\CP2.API.deps.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2.API\bin\Debug\net8.0\CP2.API.runtimeconfig.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2.API\bin\Debug\net8.0\CP2.API.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2.API\bin\Debug\net8.0\CP2.API.pdb
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2.API\obj\Debug\net8.0\CP2.API.csproj.AssemblyReference.cache
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2.API\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2.API\obj\Debug\net8.0\CP2.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2.API\obj\Debug\net8.0\CP2.API.AssemblyInfoInputs.cache
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2.API\obj\Debug\net8.0\CP2.API.AssemblyInfo.cs
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2.API\obj\Debug\net8.0\CP2.API.csproj.CoreCompileInputs.cache
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2.API\obj\Debug\net8.0\CP2.API.MvcApplicationPartsAssemblyInfo.cs
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2.API\obj\Debug\net8.0\CP2.API.MvcApplicationPartsAssemblyInfo.cache
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2.API\obj\Debug\net8.0\rjimswa.dswa.cache.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2.API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2.API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2.API\obj\Debug\net8.0\scopedcss\bundle\CP2.API.styles.css
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2.API\obj\Debug\net8.0\staticwebassets.build.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2.API\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2.API\obj\Debug\net8.0\staticwebassets.development.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2.API\obj\Debug\net8.0\swae.build.ex.cache
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2.API\obj\Debug\net8.0\CP2.API.csproj.Up2Date
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2.API\obj\Debug\net8.0\CP2.API.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2.API\obj\Debug\net8.0\refint\CP2.API.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2.API\obj\Debug\net8.0\CP2.API.pdb
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2.API\obj\Debug\net8.0\CP2.API.genruntimeconfig.cache
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2\CP2.API\obj\Debug\net8.0\ref\CP2.API.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2.API\bin\Debug\net8.0\appsettings.Development.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2.API\bin\Debug\net8.0\appsettings.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2.API\bin\Debug\net8.0\CP2.API.staticwebassets.endpoints.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2.API\bin\Debug\net8.0\CP2.API.exe
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2.API\bin\Debug\net8.0\CP2.API.deps.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2.API\bin\Debug\net8.0\CP2.API.runtimeconfig.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2.API\bin\Debug\net8.0\CP2.API.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2.API\bin\Debug\net8.0\CP2.API.pdb
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2.API\obj\Debug\net8.0\CP2.API.csproj.AssemblyReference.cache
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2.API\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2.API\obj\Debug\net8.0\CP2.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2.API\obj\Debug\net8.0\CP2.API.AssemblyInfoInputs.cache
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2.API\obj\Debug\net8.0\CP2.API.AssemblyInfo.cs
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2.API\obj\Debug\net8.0\CP2.API.csproj.CoreCompileInputs.cache
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2.API\obj\Debug\net8.0\CP2.API.MvcApplicationPartsAssemblyInfo.cs
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2.API\obj\Debug\net8.0\CP2.API.MvcApplicationPartsAssemblyInfo.cache
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2.API\obj\Debug\net8.0\CP2.API.sourcelink.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2.API\obj\Debug\net8.0\rjimswa.dswa.cache.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2.API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2.API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2.API\obj\Debug\net8.0\scopedcss\bundle\CP2.API.styles.css
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2.API\obj\Debug\net8.0\staticwebassets.build.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2.API\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2.API\obj\Debug\net8.0\staticwebassets.development.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2.API\obj\Debug\net8.0\swae.build.ex.cache
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2.API\obj\Debug\net8.0\CP2.API.csproj.Up2Date
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2.API\obj\Debug\net8.0\CP2.API.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2.API\obj\Debug\net8.0\refint\CP2.API.dll
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2.API\obj\Debug\net8.0\CP2.API.pdb
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2.API\obj\Debug\net8.0\CP2.API.genruntimeconfig.cache
+E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2.API\obj\Debug\net8.0\ref\CP2.API.dll
+D:\UFIDELITAS\2026\Primer Q\Programacion Avanzada\CP2 - Students\CP2 - Students\CP2.API\bin\Debug\net8.0\appsettings.Development.json
+D:\UFIDELITAS\2026\Primer Q\Programacion Avanzada\CP2 - Students\CP2 - Students\CP2.API\bin\Debug\net8.0\appsettings.json
+D:\UFIDELITAS\2026\Primer Q\Programacion Avanzada\CP2 - Students\CP2 - Students\CP2.API\bin\Debug\net8.0\CP2.API.staticwebassets.endpoints.json
+D:\UFIDELITAS\2026\Primer Q\Programacion Avanzada\CP2 - Students\CP2 - Students\CP2.API\bin\Debug\net8.0\CP2.API.exe
+D:\UFIDELITAS\2026\Primer Q\Programacion Avanzada\CP2 - Students\CP2 - Students\CP2.API\bin\Debug\net8.0\CP2.API.deps.json
+D:\UFIDELITAS\2026\Primer Q\Programacion Avanzada\CP2 - Students\CP2 - Students\CP2.API\bin\Debug\net8.0\CP2.API.runtimeconfig.json
+D:\UFIDELITAS\2026\Primer Q\Programacion Avanzada\CP2 - Students\CP2 - Students\CP2.API\bin\Debug\net8.0\CP2.API.dll
+D:\UFIDELITAS\2026\Primer Q\Programacion Avanzada\CP2 - Students\CP2 - Students\CP2.API\bin\Debug\net8.0\CP2.API.pdb
+D:\UFIDELITAS\2026\Primer Q\Programacion Avanzada\CP2 - Students\CP2 - Students\CP2.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\UFIDELITAS\2026\Primer Q\Programacion Avanzada\CP2 - Students\CP2 - Students\CP2.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\UFIDELITAS\2026\Primer Q\Programacion Avanzada\CP2 - Students\CP2 - Students\CP2.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\UFIDELITAS\2026\Primer Q\Programacion Avanzada\CP2 - Students\CP2 - Students\CP2.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\UFIDELITAS\2026\Primer Q\Programacion Avanzada\CP2 - Students\CP2 - Students\CP2.API\obj\Debug\net8.0\CP2.API.csproj.AssemblyReference.cache
+D:\UFIDELITAS\2026\Primer Q\Programacion Avanzada\CP2 - Students\CP2 - Students\CP2.API\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\UFIDELITAS\2026\Primer Q\Programacion Avanzada\CP2 - Students\CP2 - Students\CP2.API\obj\Debug\net8.0\CP2.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\UFIDELITAS\2026\Primer Q\Programacion Avanzada\CP2 - Students\CP2 - Students\CP2.API\obj\Debug\net8.0\CP2.API.AssemblyInfoInputs.cache
+D:\UFIDELITAS\2026\Primer Q\Programacion Avanzada\CP2 - Students\CP2 - Students\CP2.API\obj\Debug\net8.0\CP2.API.AssemblyInfo.cs
+D:\UFIDELITAS\2026\Primer Q\Programacion Avanzada\CP2 - Students\CP2 - Students\CP2.API\obj\Debug\net8.0\CP2.API.csproj.CoreCompileInputs.cache
+D:\UFIDELITAS\2026\Primer Q\Programacion Avanzada\CP2 - Students\CP2 - Students\CP2.API\obj\Debug\net8.0\CP2.API.MvcApplicationPartsAssemblyInfo.cs
+D:\UFIDELITAS\2026\Primer Q\Programacion Avanzada\CP2 - Students\CP2 - Students\CP2.API\obj\Debug\net8.0\CP2.API.MvcApplicationPartsAssemblyInfo.cache
+D:\UFIDELITAS\2026\Primer Q\Programacion Avanzada\CP2 - Students\CP2 - Students\CP2.API\obj\Debug\net8.0\CP2.API.sourcelink.json
+D:\UFIDELITAS\2026\Primer Q\Programacion Avanzada\CP2 - Students\CP2 - Students\CP2.API\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\UFIDELITAS\2026\Primer Q\Programacion Avanzada\CP2 - Students\CP2 - Students\CP2.API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\UFIDELITAS\2026\Primer Q\Programacion Avanzada\CP2 - Students\CP2 - Students\CP2.API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\UFIDELITAS\2026\Primer Q\Programacion Avanzada\CP2 - Students\CP2 - Students\CP2.API\obj\Debug\net8.0\scopedcss\bundle\CP2.API.styles.css
+D:\UFIDELITAS\2026\Primer Q\Programacion Avanzada\CP2 - Students\CP2 - Students\CP2.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\UFIDELITAS\2026\Primer Q\Programacion Avanzada\CP2 - Students\CP2 - Students\CP2.API\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\UFIDELITAS\2026\Primer Q\Programacion Avanzada\CP2 - Students\CP2 - Students\CP2.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\UFIDELITAS\2026\Primer Q\Programacion Avanzada\CP2 - Students\CP2 - Students\CP2.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\UFIDELITAS\2026\Primer Q\Programacion Avanzada\CP2 - Students\CP2 - Students\CP2.API\obj\Debug\net8.0\swae.build.ex.cache
+D:\UFIDELITAS\2026\Primer Q\Programacion Avanzada\CP2 - Students\CP2 - Students\CP2.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\UFIDELITAS\2026\Primer Q\Programacion Avanzada\CP2 - Students\CP2 - Students\CP2.API\obj\Debug\net8.0\CP2.API.csproj.Up2Date
+D:\UFIDELITAS\2026\Primer Q\Programacion Avanzada\CP2 - Students\CP2 - Students\CP2.API\obj\Debug\net8.0\CP2.API.dll
+D:\UFIDELITAS\2026\Primer Q\Programacion Avanzada\CP2 - Students\CP2 - Students\CP2.API\obj\Debug\net8.0\refint\CP2.API.dll
+D:\UFIDELITAS\2026\Primer Q\Programacion Avanzada\CP2 - Students\CP2 - Students\CP2.API\obj\Debug\net8.0\CP2.API.pdb
+D:\UFIDELITAS\2026\Primer Q\Programacion Avanzada\CP2 - Students\CP2 - Students\CP2.API\obj\Debug\net8.0\CP2.API.genruntimeconfig.cache
+D:\UFIDELITAS\2026\Primer Q\Programacion Avanzada\CP2 - Students\CP2 - Students\CP2.API\obj\Debug\net8.0\ref\CP2.API.dll

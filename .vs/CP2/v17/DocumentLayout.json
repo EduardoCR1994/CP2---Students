@@ -1,0 +1,650 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79579037-0385-4CC5-BF8B-7006434E57DA}|CP2.API\\CP2.API.csproj|d:\\ufidelitas\\2026\\primer q\\programacion avanzada\\cp2 - students\\cp2 - students\\cp2.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79579037-0385-4CC5-BF8B-7006434E57DA}|CP2.API\\CP2.API.csproj|solutionrelative:cp2.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|d:\\ufidelitas\\2026\\primer q\\programacion avanzada\\cp2 - students\\cp2 - students\\cp2\\views\\rooms\\end.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|solutionrelative:cp2\\views\\rooms\\end.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|d:\\ufidelitas\\2026\\primer q\\programacion avanzada\\cp2 - students\\cp2 - students\\cp2\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|solutionrelative:cp2\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79579037-0385-4CC5-BF8B-7006434E57DA}|CP2.API\\CP2.API.csproj|d:\\ufidelitas\\2026\\primer q\\programacion avanzada\\cp2 - students\\cp2 - students\\cp2.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{79579037-0385-4CC5-BF8B-7006434E57DA}|CP2.API\\CP2.API.csproj|solutionrelative:cp2.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|d:\\ufidelitas\\2026\\primer q\\programacion avanzada\\cp2 - students\\cp2 - students\\cp2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|solutionrelative:cp2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|d:\\ufidelitas\\2026\\primer q\\programacion avanzada\\cp2 - students\\cp2 - students\\cp2\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|solutionrelative:cp2\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|d:\\ufidelitas\\2026\\primer q\\programacion avanzada\\cp2 - students\\cp2 - students\\cp2\\views\\rooms\\room10.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|solutionrelative:cp2\\views\\rooms\\room10.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013B07FF-19DE-4A53-B996-4158E64223EA}|CP2.Core\\CP2.Core.csproj|d:\\ufidelitas\\2026\\primer q\\programacion avanzada\\cp2 - students\\cp2 - students\\cp2.core\\puzzleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013B07FF-19DE-4A53-B996-4158E64223EA}|CP2.Core\\CP2.Core.csproj|solutionrelative:cp2.core\\puzzleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013B07FF-19DE-4A53-B996-4158E64223EA}|CP2.Core\\CP2.Core.csproj|d:\\ufidelitas\\2026\\primer q\\programacion avanzada\\cp2 - students\\cp2 - students\\cp2.core\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{013B07FF-19DE-4A53-B996-4158E64223EA}|CP2.Core\\CP2.Core.csproj|solutionrelative:cp2.core\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{013B07FF-19DE-4A53-B996-4158E64223EA}|CP2.Core\\CP2.Core.csproj|d:\\ufidelitas\\2026\\primer q\\programacion avanzada\\cp2 - students\\cp2 - students\\cp2.core\\roomsbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{013B07FF-19DE-4A53-B996-4158E64223EA}|CP2.Core\\CP2.Core.csproj|solutionrelative:cp2.core\\roomsbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|d:\\ufidelitas\\2026\\primer q\\programacion avanzada\\cp2 - students\\cp2 - students\\cp2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|solutionrelative:cp2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|d:\\ufidelitas\\2026\\primer q\\programacion avanzada\\cp2 - students\\cp2 - students\\cp2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|solutionrelative:cp2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|d:\\ufidelitas\\2026\\primer q\\programacion avanzada\\cp2 - students\\cp2 - students\\cp2\\models\\puzzleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|solutionrelative:cp2\\models\\puzzleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79579037-0385-4CC5-BF8B-7006434E57DA}|CP2.API\\CP2.API.csproj|d:\\ufidelitas\\2026\\primer q\\programacion avanzada\\cp2 - students\\cp2 - students\\cp2.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{79579037-0385-4CC5-BF8B-7006434E57DA}|CP2.API\\CP2.API.csproj|solutionrelative:cp2.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|d:\\ufidelitas\\2026\\primer q\\programacion avanzada\\cp2 - students\\cp2 - students\\cp2\\views\\rooms\\room4.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|solutionrelative:cp2\\views\\rooms\\room4.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|d:\\ufidelitas\\2026\\primer q\\programacion avanzada\\cp2 - students\\cp2 - students\\cp2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|solutionrelative:cp2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|d:\\ufidelitas\\2026\\primer q\\programacion avanzada\\cp2 - students\\cp2 - students\\cp2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|solutionrelative:cp2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|d:\\ufidelitas\\2026\\primer q\\programacion avanzada\\cp2 - students\\cp2 - students\\cp2\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|solutionrelative:cp2\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|d:\\ufidelitas\\2026\\primer q\\programacion avanzada\\cp2 - students\\cp2 - students\\cp2\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|solutionrelative:cp2\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79579037-0385-4CC5-BF8B-7006434E57DA}|CP2.API\\CP2.API.csproj|d:\\ufidelitas\\2026\\primer q\\programacion avanzada\\cp2 - students\\cp2 - students\\cp2.api\\controllers\\secretapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79579037-0385-4CC5-BF8B-7006434E57DA}|CP2.API\\CP2.API.csproj|solutionrelative:cp2.api\\controllers\\secretapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|d:\\ufidelitas\\2026\\primer q\\programacion avanzada\\cp2 - students\\cp2 - students\\cp2\\views\\rooms\\exit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|solutionrelative:cp2\\views\\rooms\\exit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|d:\\ufidelitas\\2026\\primer q\\programacion avanzada\\cp2 - students\\cp2 - students\\cp2\\views\\rooms\\room14.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|solutionrelative:cp2\\views\\rooms\\room14.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|d:\\ufidelitas\\2026\\primer q\\programacion avanzada\\cp2 - students\\cp2 - students\\cp2\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|solutionrelative:cp2\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|d:\\ufidelitas\\2026\\primer q\\programacion avanzada\\cp2 - students\\cp2 - students\\cp2\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|solutionrelative:cp2\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|d:\\ufidelitas\\2026\\primer q\\programacion avanzada\\cp2 - students\\cp2 - students\\cp2\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|solutionrelative:cp2\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|d:\\ufidelitas\\2026\\primer q\\programacion avanzada\\cp2 - students\\cp2 - students\\cp2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|solutionrelative:cp2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|d:\\ufidelitas\\2026\\primer q\\programacion avanzada\\cp2 - students\\cp2 - students\\cp2\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|solutionrelative:cp2\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|d:\\ufidelitas\\2026\\primer q\\programacion avanzada\\cp2 - students\\cp2 - students\\cp2\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|solutionrelative:cp2\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|d:\\ufidelitas\\2026\\primer q\\programacion avanzada\\cp2 - students\\cp2 - students\\cp2\\views\\account\\intro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|solutionrelative:cp2\\views\\account\\intro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|d:\\ufidelitas\\2026\\primer q\\programacion avanzada\\cp2 - students\\cp2 - students\\cp2\\views\\rooms\\room1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|solutionrelative:cp2\\views\\rooms\\room1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|d:\\ufidelitas\\2026\\primer q\\programacion avanzada\\cp2 - students\\cp2 - students\\cp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|solutionrelative:cp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|d:\\ufidelitas\\2026\\primer q\\programacion avanzada\\cp2 - students\\cp2 - students\\cp2\\views\\rooms\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|solutionrelative:cp2\\views\\rooms\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|d:\\ufidelitas\\2026\\primer q\\programacion avanzada\\cp2 - students\\cp2 - students\\cp2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|solutionrelative:cp2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|d:\\ufidelitas\\2026\\primer q\\programacion avanzada\\cp2 - students\\cp2 - students\\cp2\\views\\shared\\_loginlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|solutionrelative:cp2\\views\\shared\\_loginlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|d:\\ufidelitas\\2026\\primer q\\programacion avanzada\\cp2 - students\\cp2 - students\\cp2\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|solutionrelative:cp2\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|d:\\ufidelitas\\2026\\primer q\\programacion avanzada\\cp2 - students\\cp2 - students\\cp2\\cp2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{459B01BB-054E-498B-9616-A470F17A726A}|CP2\\CP2.csproj|solutionrelative:cp2\\cp2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2.API\\Program.cs",
+              "RelativeDocumentMoniker": "CP2.API\\Program.cs",
+              "ToolTip": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2.API\\Program.cs",
+              "RelativeToolTip": "CP2.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T02:56:14.821Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "End.cshtml",
+              "DocumentMoniker": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\Views\\Rooms\\End.cshtml",
+              "RelativeDocumentMoniker": "CP2\\Views\\Rooms\\End.cshtml",
+              "ToolTip": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\Views\\Rooms\\End.cshtml",
+              "RelativeToolTip": "CP2\\Views\\Rooms\\End.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-09T03:02:57.342Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CP2\\appsettings.Development.json",
+              "ToolTip": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\appsettings.Development.json",
+              "RelativeToolTip": "CP2\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-16T03:41:40.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2.API\\appsettings.json",
+              "RelativeDocumentMoniker": "CP2.API\\appsettings.json",
+              "ToolTip": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2.API\\appsettings.json",
+              "RelativeToolTip": "CP2.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-16T03:29:40.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "CP2\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "CP2\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T00:48:29.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoomsController.cs",
+              "DocumentMoniker": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\Controllers\\RoomsController.cs",
+              "RelativeDocumentMoniker": "CP2\\Controllers\\RoomsController.cs",
+              "ToolTip": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\Controllers\\RoomsController.cs",
+              "RelativeToolTip": "CP2\\Controllers\\RoomsController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwCQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T00:36:28.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Room10.cshtml",
+              "DocumentMoniker": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\Views\\Rooms\\Room10.cshtml",
+              "RelativeDocumentMoniker": "CP2\\Views\\Rooms\\Room10.cshtml",
+              "ToolTip": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\Views\\Rooms\\Room10.cshtml",
+              "RelativeToolTip": "CP2\\Views\\Rooms\\Room10.cshtml",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAIsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-16T01:51:52.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RoomsBusiness.cs",
+              "DocumentMoniker": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2.Core\\RoomsBusiness.cs",
+              "RelativeDocumentMoniker": "CP2.Core\\RoomsBusiness.cs",
+              "ToolTip": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2.Core\\RoomsBusiness.cs",
+              "RelativeToolTip": "CP2.Core\\RoomsBusiness.cs",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAYwPkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T02:57:40.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2.Core\\appsettings.json",
+              "RelativeDocumentMoniker": "CP2.Core\\appsettings.json",
+              "ToolTip": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2.Core\\appsettings.json",
+              "RelativeToolTip": "CP2.Core\\appsettings.json",
+              "ViewState": "AgIAACEAAAAAAAAAAAAcwEEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-09T03:22:02.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PuzzleViewModel.cs",
+              "DocumentMoniker": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2.Core\\PuzzleViewModel.cs",
+              "RelativeDocumentMoniker": "CP2.Core\\PuzzleViewModel.cs",
+              "ToolTip": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2.Core\\PuzzleViewModel.cs",
+              "RelativeToolTip": "CP2.Core\\PuzzleViewModel.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwBEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T04:11:13.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CP2\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CP2\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T00:47:58.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "CP2\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "CP2\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T00:47:53.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\appsettings.json",
+              "RelativeDocumentMoniker": "CP2\\appsettings.json",
+              "ToolTip": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\appsettings.json",
+              "RelativeToolTip": "CP2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-16T00:47:30.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "CP2\\Models\\LoginViewModel.cs",
+              "ToolTip": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "CP2\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T00:47:54.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "CP2\\Models\\RegisterViewModel.cs",
+              "ToolTip": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "CP2\\Models\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T00:47:55.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CP2\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "CP2\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-16T00:48:25.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Room14.cshtml",
+              "DocumentMoniker": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\Views\\Rooms\\Room14.cshtml",
+              "RelativeDocumentMoniker": "CP2\\Views\\Rooms\\Room14.cshtml",
+              "ToolTip": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\Views\\Rooms\\Room14.cshtml",
+              "RelativeToolTip": "CP2\\Views\\Rooms\\Room14.cshtml",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAAH0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-16T02:39:09.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "CP2\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "CP2\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-16T00:47:48.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "CP2\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "CP2\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-16T00:47:45.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Room1.cshtml",
+              "DocumentMoniker": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\Views\\Rooms\\Room1.cshtml",
+              "RelativeDocumentMoniker": "CP2\\Views\\Rooms\\Room1.cshtml",
+              "ToolTip": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\Views\\Rooms\\Room1.cshtml",
+              "RelativeToolTip": "CP2\\Views\\Rooms\\Room1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-16T00:47:40.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\Program.cs",
+              "RelativeDocumentMoniker": "CP2\\Program.cs",
+              "ToolTip": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\Program.cs",
+              "RelativeToolTip": "CP2\\Program.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T00:47:25.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Intro.cshtml",
+              "DocumentMoniker": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\Views\\Account\\Intro.cshtml",
+              "RelativeDocumentMoniker": "CP2\\Views\\Account\\Intro.cshtml",
+              "ToolTip": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\Views\\Account\\Intro.cshtml",
+              "RelativeToolTip": "CP2\\Views\\Account\\Intro.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-16T00:47:21.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\Views\\Rooms\\Index.cshtml",
+              "RelativeDocumentMoniker": "CP2\\Views\\Rooms\\Index.cshtml",
+              "ToolTip": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\Views\\Rooms\\Index.cshtml",
+              "RelativeToolTip": "CP2\\Views\\Rooms\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-16T00:47:19.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Exit.cshtml",
+              "DocumentMoniker": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\Views\\Rooms\\Exit.cshtml",
+              "RelativeDocumentMoniker": "CP2\\Views\\Rooms\\Exit.cshtml",
+              "ToolTip": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\Views\\Rooms\\Exit.cshtml",
+              "RelativeToolTip": "CP2\\Views\\Rooms\\Exit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-16T00:47:16.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CP2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CP2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-16T00:47:05.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_LoginLayout.cshtml",
+              "DocumentMoniker": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\Views\\Shared\\_LoginLayout.cshtml",
+              "RelativeDocumentMoniker": "CP2\\Views\\Shared\\_LoginLayout.cshtml",
+              "ToolTip": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\Views\\Shared\\_LoginLayout.cshtml",
+              "RelativeToolTip": "CP2\\Views\\Shared\\_LoginLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-16T00:47:03.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "CP2\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "CP2\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-16T00:47:03.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "CP2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "CP2\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-16T00:47:02.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "CP2\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "CP2\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-16T00:47:02.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CP2\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "CP2\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-16T00:47:00.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CP2\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "CP2\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-16T00:47:00.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PuzzleViewModel.cs",
+              "DocumentMoniker": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\Models\\PuzzleViewModel.cs",
+              "RelativeDocumentMoniker": "CP2\\Models\\PuzzleViewModel.cs",
+              "ToolTip": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\Models\\PuzzleViewModel.cs",
+              "RelativeToolTip": "CP2\\Models\\PuzzleViewModel.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA4wAwAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T04:06:06.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Room4.cshtml",
+              "DocumentMoniker": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\Views\\Rooms\\Room4.cshtml",
+              "RelativeDocumentMoniker": "CP2\\Views\\Rooms\\Room4.cshtml",
+              "ToolTip": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\Views\\Rooms\\Room4.cshtml",
+              "RelativeToolTip": "CP2\\Views\\Rooms\\Room4.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAJsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-09T04:03:36.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CP2.API\\appsettings.Development.json",
+              "ToolTip": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2.API\\appsettings.Development.json",
+              "RelativeToolTip": "CP2.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-09T03:22:25.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CP2.csproj",
+              "DocumentMoniker": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\CP2.csproj",
+              "RelativeDocumentMoniker": "CP2\\CP2.csproj",
+              "ToolTip": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2\\CP2.csproj",
+              "RelativeToolTip": "CP2\\CP2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-09T02:55:42.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SecretApiController.cs",
+              "DocumentMoniker": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2.API\\Controllers\\SecretApiController.cs",
+              "RelativeDocumentMoniker": "CP2.API\\Controllers\\SecretApiController.cs",
+              "ToolTip": "D:\\UFIDELITAS\\2026\\Primer Q\\Programacion Avanzada\\CP2 - Students\\CP2 - Students\\CP2.API\\Controllers\\SecretApiController.cs",
+              "RelativeToolTip": "CP2.API\\Controllers\\SecretApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T02:54:43.382Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
