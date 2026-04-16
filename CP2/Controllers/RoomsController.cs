@@ -37,7 +37,7 @@ namespace CP2.Controllers
             if (!IsRoomUnlocked(1))
                 return RedirectToCurrentUnlockedRoom();
             
-            return View("Room13");
+            return View("Room5");
         }
 
         #region Room 1
@@ -479,6 +479,17 @@ namespace CP2.Controllers
             return View();
         }
         #endregion
+        [HttpGet]
+        public async Task<IActionResult> Room15()
+        {
+            if (!IsRoomUnlocked(15))
+            {
+                return RedirectToCurrentUnlockedRoom();
+            }
+
+            await Task.CompletedTask;
+            return View("Exit");
+        }
 
         #region Exit
         [HttpPost]

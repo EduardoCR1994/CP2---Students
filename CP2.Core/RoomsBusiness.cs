@@ -4,6 +4,7 @@ using CP2.COR;
 using CP2.Data.Global;
 using CP2.Data.Models;
 using System.Text.Json;
+using System.Linq;  
 
 namespace CP2.Core;
 
@@ -30,10 +31,11 @@ public interface IRoomsBusiness
 public class RoomsBusiness(
     IRestProvider restProvider,
     SecureHashService secureHashService,
+    FoodbankContext db,
     IReadOnlyDictionary<int, string> roomConfigs) : RoomsBase(restProvider, secureHashService, roomConfigs), IRoomsBusiness
 {
     private readonly IRestProvider _restProvider = restProvider;
-
+    private readonly FoodbankContext db = db;
     public async Task<bool> SolutionTestAsync(string code)
     {
         // solucion aqui
@@ -82,15 +84,9 @@ public class RoomsBusiness(
     int i = chars.Length - 2;
 
     while (i >= 0 && chars[i] >= chars[i + 1])
-
       i--;
-
-
     if (i < 0)
-
       break;
-
-
     int j = chars.Length - 1;
 
     while (chars[j] <= chars[i])
@@ -110,10 +106,10 @@ public class RoomsBusiness(
     return false;
 
 
-  //var resultApi = await CallApiAsync("0", validCandidate);
+        //var resultApi = await CallApiAsync("0", validCandidate);
+   return Evaluate(0, validCandidate);
 
-
-  return true;
+        //return true;
 
 }
 
@@ -155,20 +151,26 @@ public class RoomsBusiness(
         var options = new JsonSerializerOptions
 
         {
-
             PropertyNameCaseInsensitive = true
-
         };
 
         PuzzleViewModel puzzle = JsonSerializer.Deserialize<PuzzleViewModel>(code, options);
-
         return Evaluate(4, puzzle.ToString()); // Placeholder logic
     }
 
     public async Task<bool> SolutionRoom5Async()
     {
-        // linq
-        return true;
+        //linq
+        var result =  db.FoodItems
+        .Where(item =>
+            item.Ingredients.Contains("game") &&
+            item.Price >= 6.5m &&
+            item.Price <= 7m &&
+            (item.IsPerishable ?? false))
+        .Select(item => item.Ingredients)
+        .FirstOrDefault();
+    
+        return Evaluate(5, result);
     }
 
     public async Task<bool> SolutionRoom6Async(int num)
@@ -191,7 +193,7 @@ public class RoomsBusiness(
 
     public async Task<bool> SolutionRoom7Async(string code)
     {
-        // lalala lalala@gmail.com
+        // lalala 
         return Evaluate(7, code); // Placeholder logic
     }
 
@@ -227,7 +229,6 @@ public class RoomsBusiness(
 
     public async Task<bool> SolutionRoom10Async(string code)
     {
-
         // "el profe"
         var result = Evaluate(11, code);
         return result; // Placeholder logic
@@ -258,7 +259,8 @@ public class RoomsBusiness(
 
     public async Task<bool> CanExitTheRoomsAsync(string code)
     {
-        // solucion aqui
+        // solucion aqui 
+        //exit
         return Evaluate(10, code); // Placeholder logic
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CP2.COR")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a94ee1fe7ef6fa6ec571ee3fe33c37b5f4b03d0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebff9d0382aaa01091c088a6106f11b0dcd6f72f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CP2.COR")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CP2.COR")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -29,19 +29,3 @@ E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2.Repositorie
 E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2.Repositories\obj\Debug\net9.0\refint\CP2.Repositories.dll
 E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2.Repositories\obj\Debug\net9.0\CP2.Repositories.pdb
 E:\repositories\UFide\Progra Avanzada Web\PAW-CP2\CP2 - Students\CP2.Repositories\obj\Debug\net9.0\ref\CP2.Repositories.dll
-D:\UFIDELITAS\2026\Primer Q\Programacion Avanzada\CP2 - Students\CP2 - Students\CP2.Repositories\bin\Debug\net9.0\CP2.Repositories.deps.json
-D:\UFIDELITAS\2026\Primer Q\Programacion Avanzada\CP2 - Students\CP2 - Students\CP2.Repositories\bin\Debug\net9.0\CP2.Repositories.dll
-D:\UFIDELITAS\2026\Primer Q\Programacion Avanzada\CP2 - Students\CP2 - Students\CP2.Repositories\bin\Debug\net9.0\CP2.Repositories.pdb
-D:\UFIDELITAS\2026\Primer Q\Programacion Avanzada\CP2 - Students\CP2 - Students\CP2.Repositories\bin\Debug\net9.0\CP2.Data.dll
-D:\UFIDELITAS\2026\Primer Q\Programacion Avanzada\CP2 - Students\CP2 - Students\CP2.Repositories\bin\Debug\net9.0\CP2.Data.pdb
-D:\UFIDELITAS\2026\Primer Q\Programacion Avanzada\CP2 - Students\CP2 - Students\CP2.Repositories\obj\Debug\net9.0\CP2.Repositories.csproj.AssemblyReference.cache
-D:\UFIDELITAS\2026\Primer Q\Programacion Avanzada\CP2 - Students\CP2 - Students\CP2.Repositories\obj\Debug\net9.0\CP2.Repositories.GeneratedMSBuildEditorConfig.editorconfig
-D:\UFIDELITAS\2026\Primer Q\Programacion Avanzada\CP2 - Students\CP2 - Students\CP2.Repositories\obj\Debug\net9.0\CP2.Repositories.AssemblyInfoInputs.cache
-D:\UFIDELITAS\2026\Primer Q\Programacion Avanzada\CP2 - Students\CP2 - Students\CP2.Repositories\obj\Debug\net9.0\CP2.Repositories.AssemblyInfo.cs
-D:\UFIDELITAS\2026\Primer Q\Programacion Avanzada\CP2 - Students\CP2 - Students\CP2.Repositories\obj\Debug\net9.0\CP2.Repositories.csproj.CoreCompileInputs.cache
-D:\UFIDELITAS\2026\Primer Q\Programacion Avanzada\CP2 - Students\CP2 - Students\CP2.Repositories\obj\Debug\net9.0\CP2.Repositories.sourcelink.json
-D:\UFIDELITAS\2026\Primer Q\Programacion Avanzada\CP2 - Students\CP2 - Students\CP2.Repositories\obj\Debug\net9.0\CP2.Repo.0471CBAD.Up2Date
-D:\UFIDELITAS\2026\Primer Q\Programacion Avanzada\CP2 - Students\CP2 - Students\CP2.Repositories\obj\Debug\net9.0\CP2.Repositories.dll
-D:\UFIDELITAS\2026\Primer Q\Programacion Avanzada\CP2 - Students\CP2 - Students\CP2.Repositories\obj\Debug\net9.0\refint\CP2.Repositories.dll
-D:\UFIDELITAS\2026\Primer Q\Programacion Avanzada\CP2 - Students\CP2 - Students\CP2.Repositories\obj\Debug\net9.0\CP2.Repositories.pdb
-D:\UFIDELITAS\2026\Primer Q\Programacion Avanzada\CP2 - Students\CP2 - Students\CP2.Repositories\obj\Debug\net9.0\ref\CP2.Repositories.dll
